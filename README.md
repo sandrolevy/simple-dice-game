@@ -15,4 +15,4 @@ This is a simple game created along side the course of Java Script of Jonas Schi
 ## Features
 - Option to change the Winning Score!
 
-![game-image](https://github.com/sandrolevy/simple-dice-game/blob/master/game-image.png?raw=true)
+![game-image](https://github.com/sandrolevy/simpledicegame.github.io/blob/master/game-image.png?raw=true)
