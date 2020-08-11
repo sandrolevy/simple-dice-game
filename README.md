@@ -1,5 +1,8 @@
 # simple-dice-game
 
+![game-image](https://github.com/sandrolevy/simpledicegame.github.io/blob/master/game-image.png?raw=true)
+
+
 This is a simple game created along side the course of Java Script of Jonas Schimedtman, for study purpouse only.
 
 
@@ -15,4 +18,3 @@ This is a simple game created along side the course of Java Script of Jonas Schi
 ## Features
 - Option to change the Winning Score!
 
-![game-image](https://github.com/sandrolevy/simpledicegame.github.io/blob/master/game-image.png?raw=true)
