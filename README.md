@@ -1,5 +1,7 @@
 # simple-dice-game
 
+[Play Now](https://sandrolevy.github.io/simple-dice-game/)
+
 ![game-image](https://github.com/sandrolevy/simpledicegame.github.io/blob/master/game-image.png?raw=true)
 
 
