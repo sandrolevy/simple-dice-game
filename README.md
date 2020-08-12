@@ -1,7 +1,6 @@
 # simple-dice-game
 This is a simple game created along side the course of Java Script of Jonas Schimedtman, for study purpouse only.
 
-<a href="#" class="myButton">PLAY NOW</a>
 
 [Play Now](https://sandrolevy.github.io/simple-dice-game/)
 
