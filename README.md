@@ -1,11 +1,12 @@
 # simple-dice-game
+This is a simple game created along side the course of Java Script of Jonas Schimedtman, for study purpouse only.
+
 
 [Play Now](https://sandrolevy.github.io/simple-dice-game/)
 
 ![game-image](https://github.com/sandrolevy/simpledicegame.github.io/blob/master/game-image.png?raw=true)
 
 
-This is a simple game created along side the course of Java Script of Jonas Schimedtman, for study purpouse only.
 
 
 ## Rules
